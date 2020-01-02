@@ -1,6 +1,3 @@
--- This query is from the Qwiklab Weather Data in BigQuery (https://google.qwiklabs.com/focuses/609?parent=catalog#step9)
-
-
 SELECT
     descriptor,
     sum(complaint_count) as total_complaint_count,
