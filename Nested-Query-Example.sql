@@ -1,4 +1,4 @@
--- This query is from the Qwiklab [Weather Data in BigQuery](https://google.qwiklabs.com/focuses/609?parent=catalog#step9)
+-- This query is from the Qwiklab Weather Data in BigQuery (https://google.qwiklabs.com/focuses/609?parent=catalog#step9)
 
 
 SELECT
