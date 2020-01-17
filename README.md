@@ -1,4 +1,4 @@
-# BA770-Lab-Materials
+# BA770, Cloud Computing, Lab Materials
 
 
 I worked as the TA and led the lab session for course **BA770, Business Analytics Toolbox III - Cloud Computing** at BU Questrom, Summer '19.    
