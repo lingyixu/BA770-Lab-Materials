@@ -6,8 +6,11 @@ I worked as the TA and led the lab session for course **BA770, Business Analytic
 All materials in this repo are self-designed.   
    
 The course mainly introduces relational databases and SQL including filtering, grouping, ordering, joining, along with advanced SQL techniques like correlated subquery, window function, and common table expression. Students learn and practice SQL skills via [DataCamp](https://www.datacamp.com/home) and [Google BigQuery](https://cloud.google.com/bigquery/). They also learn how to incorporate SQL queries in a [Datalab](https://cloud.google.com/datalab/)-based Jupyter Notebook using [Bigquery magics](https://googleapis.dev/python/bigquery/latest/magics.html), and to train basic machine learning models via BigQuery.
+
+_(Please find the [Datalab How to Guide](https://github.com/lingyixu/BA770-Lab-Materials/wiki/Datalab-How-to-Guide) in wiki)_
     
-        
+## 
+
 Lab materials mainly include review slides and Qlab supplementaries:
 
 * DataCamp slides help students review DC assignments and prepare for quizzes.
